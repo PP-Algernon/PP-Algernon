@@ -81,10 +81,6 @@ Here are some ideas to get you started:
 - ⭐ 已获得 2 Stars，是 RoboMaster 开发的实用基础模板
 
 
-## 📈 GitHub Stats
-
-![PuXiarui's GitHub stats](https://github-readme-stats.vercel.app/api?username=PP-Algernon&show_icons=true&theme=tokyonight)
-
 ## 📫 Get in Touch
 
 - **GitHub**：[@PP-Algernon](https://github.com/PP-Algernon)
