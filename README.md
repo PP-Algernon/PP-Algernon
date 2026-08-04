@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-*(可替换为你的 GitHub Stats 卡片)*
+![PuXiarui's GitHub stats](https://github-readme-stats.vercel.app/api?username=PP-Algernon&show_icons=true&theme=tokyonight)
 
 ## 📫 Get in Touch
 
