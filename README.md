@@ -70,8 +70,6 @@ Here are some ideas to get you started:
 
     - 动力学解算与重力补偿、底层硬件SDK抽象封装
 
-🎯 应用场景：RoboMaster 2026 赛季工程机器人
-
 ### 🥚 RL_Logistics_Eggbot 移动抓取强化学习项目
 
 `RL_Logistics_Eggbot` — 麦克纳姆轮底盘搭配五轴机械臂的移动抓取强化学习工程：
@@ -89,8 +87,6 @@ Here are some ideas to get you started:
 - 主控芯片：STM32F407
 
 - 开发框架：HAL 库
-
-- 应用场景：RoboMaster 机甲大师赛步兵机器人
 
 ### 📐 达妙喵板模板工程
 
