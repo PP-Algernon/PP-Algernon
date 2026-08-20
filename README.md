@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm PuXiarui (蒲夏睿)
 
->🤖 RoboMaster 机甲大师竞赛选手 | 武汉理工大学 · 自动化专业
-
->🌐 [个人主页](https://pp-algernon.github.io/home.html)
+>🤖 RoboMaster 机甲大师竞赛选手 | 武汉理工大学 · 自动化专业 | 🌐 [个人主页](https://pp-algernon.github.io/home.html)
 
 ## 🎯 About Me
 
