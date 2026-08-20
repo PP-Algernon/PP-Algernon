@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 
 ### 🥚 基于强化学习的机器人移动抓取项目
 
+**Isaac Lab + Sim**
+
 `RL_Logistics_Eggbot` — 麦克纳姆轮底盘搭配五轴机械臂的移动抓取强化学习工程：
 
 - 构建移动机器人仿真环境，完成底盘‑机械臂协同MDP任务定义
