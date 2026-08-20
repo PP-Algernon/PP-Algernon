@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
     - 动力学解算与重力补偿、底层硬件SDK抽象封装
 
-### 🥚 RL_Logistics_Eggbot 移动抓取强化学习项目
+### 🥚 基于强化学习的机器人移动抓取项目
 
 `RL_Logistics_Eggbot` — 麦克纳姆轮底盘搭配五轴机械臂的移动抓取强化学习工程：
 
